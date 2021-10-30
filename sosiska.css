@@ -1,0 +1,101 @@
+.con {
+  border: 1px solid mediumaquamarine;
+  width: 1000px;
+  margin: 0 auto;
+}
+header {
+  border: 1px solid black;
+  height: 115px;
+}
+
+main {
+  border: 1px solid black;
+}
+
+footer {
+  border: 1px solid black;
+  background-color: grey;
+}
+body {
+  background-color: indigo;
+  background-image: url(zz0zztlimjq4mzhlngexmwviymjimjfizti2zwnmn2mzza__.1hx5o.jpg);
+}
+.logo {
+  background-color: orangered;
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 5px;
+  float: left;
+}
+.menu li {
+  border: 1px solid black;
+  list-style-type: none;
+  display: inline; /*строчный елемент*/
+  display: block; /*блочный елемент*/
+  display: inline-block;
+}
+.menu > li {
+  width: 100px;
+  height: 30px;
+}
+.menu li ul {
+  display: none;
+}
+.menu li:hover ul {
+  display: inline-block;
+}
+.menu {
+  float: right;
+}
+.yazadanieneponyal {
+  border: 2px solid mediumpurple;
+  width: 550px;
+  height: 200px;
+  /* float: right; */
+  display: inline-block;
+}
+.yaigral {
+  border: 2px solid goldenrod;
+  width: 435px;
+  height: 200px;
+
+  /* float: right */
+  display: inline-block;
+}
+.yazadanieneponyal2 {
+  border: 2px solid mediumpurple;
+  width: 435px;
+  height: 200px;
+  /* float: right; */
+  display: inline-block;
+}
+.yaigral2 {
+  border: 2px solid goldenrod;
+  width: 550px;
+  height: 200px;
+
+  /* float: right */
+  display: inline-block;
+}
+.yazadanieneponyal3 {
+  border: 2px solid mediumpurple;
+  width: 500px;
+  height: 200px;
+  /* float: right; */
+  display: inline-block;
+}
+.yaigral3 {
+  border: 2px solid goldenrod;
+  width: 486px;
+  height: 200px;
+
+  /* float: right */
+  display: inline-block;
+}
+.yasmotrel3 {
+  border: 2px solid goldenrod;
+  width: 482px;
+  height: 100px;
+  display: block;
+}

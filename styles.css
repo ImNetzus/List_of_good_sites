@@ -1,0 +1,26 @@
+h1 {
+  color: green;
+}
+header {
+  background: cornflowerblue;
+}
+footer {
+  background: hotpink;
+}
+main {
+  background: darkturquoise;
+}
+nav {
+  background: darksalmon;
+}
+body{
+    background-color: #536976; 
+    background-image: url(vanyapro229xd.jpg);
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange
+}
+    
